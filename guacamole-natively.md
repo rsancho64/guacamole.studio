@@ -15,5 +15,5 @@ ldconfig
 systemctl daemon-reload
 systemctl start guacd
 service guacd status
-history
+
 ```
