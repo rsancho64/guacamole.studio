@@ -1,6 +1,6 @@
 ## guacamole server nativo
 
-[installing guacamole](http://guacamole.incubator.apache.org/doc/gug/installing-guacamole.html)
+[de guacamole oficial](http://guacamole.incubator.apache.org/doc/gug/installing-guacamole.html)
 ```bash
 git clone git://github.com/apache/guacamole-server.git
 cd guacamole-server/
